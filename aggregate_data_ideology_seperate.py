@@ -10,7 +10,7 @@ from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
 
 # a script to aggregate our transcription data in one big csv
-# and jack wants the data how HE WANTS IT !
+# and jack wants the data
 # deployed by aussie frost on 06/01/2023
 
 # make imports of preprocessing funcs 
